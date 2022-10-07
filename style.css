@@ -1,0 +1,14 @@
+body {
+    /* text-align: center; */
+    margin: 0%;
+}
+.box {
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+    background-color:#2F3E53;
+    
+}
+.inner-box {
+
+}
