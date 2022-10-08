@@ -23,8 +23,7 @@ function passwordGenerator() {
 
 let fields = document.getElementById("empty");
 fields.addEventListener('click', function() {
-    passwordOneField.innerText =  "Password One";
-    passwordTwoField.innerText = "Password Two";
+    location.reload() 
 })
 
 
