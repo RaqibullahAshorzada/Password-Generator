@@ -58,8 +58,17 @@ hr {
     padding: 10px 20px;
     border-radius: 4px;
     background-color: #273549;
-    border: none;
-    cursor: pointer;
+    border: none;;
     color:#10B981;
     letter-spacing: 1px;
+}
+#empty {
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: #10B981;
+    border: none;
+    cursor: pointer;
+    color: white;
+    letter-spacing: 1px;
+    margin-top: 10px;
 }
